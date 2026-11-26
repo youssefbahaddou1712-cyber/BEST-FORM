@@ -1,0 +1,6 @@
+{
+  "name": "BEST FORME – Fitness Club Casablanca",
+  "description": "Club de fitness premium à Casablanca, Maroc. Musculation, cardio training, cours collectifs, functional training et coaching personnalisé. Build your best self.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
